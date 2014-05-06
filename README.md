@@ -1,6 +1,6 @@
 ## Who am I?
-My name is Felix and I’m a mid twenty software engineer from Berlin. I recently finished my Bachelor of Science in *Applied computer science*. I love writing software for many years and I’m willing to intensify this relationship with upcoming challenges.
-  I’m also **willing to relocate** to interesting places or for interesting projects!
+My name is Felix and I’m a mid twenty software engineer from Berlin. I recently finished my Bachelor of Science in *Applied computer science*. I love writing software for many years and I’m willing to intensify this relationship with upcoming challenges.  
+I’m also **willing to relocate** to interesting places or for interesting projects!
 
 ## Status
 Available for hire!
